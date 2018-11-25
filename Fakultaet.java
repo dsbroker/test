@@ -20,7 +20,7 @@ public class Fakultaet {
 
 	// Main-Methode
 	public static void main(String[] args) {
-		Fakultaet fakultaet = new Fakultaet(5);
+		Fakultaet fakultaet = new Fakultaet(6);
 	}
 
 }
